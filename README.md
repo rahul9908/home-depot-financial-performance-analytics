@@ -1,6 +1,6 @@
 # Home Depot Financial Performance Analytics
 
-**A graduate-level public-company financial analysis case study: SEC XBRL → Python → Excel → Power BI**
+**A public-company financial analysis case study: SEC XBRL → Python → Excel → Power BI**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](Project2_Home_Depot/scripts/transform_financials.py)
 [![Excel model](https://img.shields.io/badge/Excel-Formula--driven-217346?logo=microsoft-excel&logoColor=white)](outputs/project2_home_depot/Home_Depot_Financial_Analysis.xlsx)
@@ -122,6 +122,6 @@ ROIC is an analytical estimate using NOPAT divided by average invested capital; 
 
 ## Professional project description
 
-**Built a graduate-level Home Depot financial performance model using SEC XBRL, Python, Excel, and Power BI; standardized five years of statements, analyzed ROIC/working capital/earnings quality, isolated acquisition-adjusted growth, and produced audited scenario forecasts with executive decision thresholds.**
+**Built a Home Depot financial performance model using SEC XBRL, Python, Excel, and Power BI; standardized five years of statements, analyzed ROIC/working capital/earnings quality, isolated acquisition-adjusted growth, and produced audited scenario forecasts with executive decision thresholds.**
 
 For the detailed recommendation, methodology, and audit notes, see [`Executive_Financial_Summary.md`](Project2_Home_Depot/Executive_Financial_Summary.md) and [`Research_Methodology.md`](Project2_Home_Depot/Research_Methodology.md).

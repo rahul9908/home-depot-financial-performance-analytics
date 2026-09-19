@@ -278,7 +278,7 @@ ratios.getRange("C28:H28").format.font = { name: font, size: 10, bold: true, col
 setWidths(ratios);
 ratios.getRange("D:H").format.columnWidth = 14;
 
-// Graduate-level return, earnings-quality, driver, and acquisition analysis.
+// Return, earnings-quality, driver, and acquisition analysis.
 title(advanced, "Advanced performance analysis", "Returns, earnings quality, operating-profit attribution, and acquisition-adjusted growth.");
 advanced.getRange("C6:H6").values = [["Metric",2021,2022,2023,2024,2025]];
 header(advanced.getRange("C6:H6"));
