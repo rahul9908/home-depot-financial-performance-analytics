@@ -1,0 +1,6 @@
+Project2_Home_Depot/node_modules/
+Project2_Home_Depot/data/sec_companyfacts_snapshot.json
+outputs/project2_home_depot/*.png
+outputs/project2_home_depot/*.inspect.ndjson
+__pycache__/
+.DS_Store

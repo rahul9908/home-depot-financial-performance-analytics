@@ -1,0 +1,18 @@
+Revenue = CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Revenue")
+Operating Income = CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Operating Income")
+Net Income = CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Net Income")
+Operating Cash Flow = CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Operating Cash Flow")
+Capital Expenditures = CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Capital Expenditures")
+Free Cash Flow = [Operating Cash Flow] - [Capital Expenditures]
+Operating Margin = DIVIDE([Operating Income], [Revenue])
+Net Margin = DIVIDE([Net Income], [Revenue])
+CFO Conversion = DIVIDE([Operating Cash Flow], [Net Income])
+Latest Fiscal Year = MAX(Financials[Fiscal Year])
+Scenario Value = SUM(Scenarios[Value USD millions])
+NOPAT = [Operating Income] * (1 - DIVIDE(CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Income Tax Expense"), CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Income Before Tax")))
+Total Debt = CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] IN {"Current Debt", "Long-term Debt"})
+Invested Capital = [Total Debt] + CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Stockholders' Equity") - CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Cash & Equivalents")
+ROIC = DIVIDE([NOPAT], [Invested Capital])
+Accrual Amount = [Net Income] - [Operating Cash Flow]
+Dividend Coverage = DIVIDE([Operating Cash Flow], CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Dividends Paid"))
+NOWC = CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] IN {"Accounts Receivable", "Inventory"}) - CALCULATE(SUM(Financials[Value USD millions]), Financials[Line Item] = "Accounts Payable")

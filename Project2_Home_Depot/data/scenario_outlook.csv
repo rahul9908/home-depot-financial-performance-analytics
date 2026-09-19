@@ -1,0 +1,82 @@
+﻿Scenario,Fiscal Year,Metric,Value USD millions
+Downside,2026,Revenue,164683.0
+Downside,2026,Gross Profit,54345.4
+Downside,2026,Operating Income,19762.0
+Downside,2026,Net Income,13203.2
+Downside,2026,Operating Cash Flow,13863.4
+Downside,2026,Revenue Growth,0.0
+Downside,2026,Gross Margin,0.33
+Downside,2026,Operating Margin,0.12
+Downside,2026,CFO / Net Income,1.05
+Downside,2027,Revenue,166329.8
+Downside,2027,Gross Profit,55055.2
+Downside,2027,Operating Income,20292.2
+Downside,2027,Net Income,13606.7
+Downside,2027,Operating Cash Flow,14695.3
+Downside,2027,Revenue Growth,0.01
+Downside,2027,Gross Margin,0.331
+Downside,2027,Operating Margin,0.122
+Downside,2027,CFO / Net Income,1.08
+Downside,2028,Revenue,169656.4
+Downside,2028,Gross Profit,56325.9
+Downside,2028,Operating Income,21037.4
+Downside,2028,Net Income,14173.8
+Downside,2028,Operating Cash Flow,15591.2
+Downside,2028,Revenue Growth,0.02
+Downside,2028,Gross Margin,0.332
+Downside,2028,Operating Margin,0.124
+Downside,2028,CFO / Net Income,1.1
+Base,2026,Revenue,168800.1
+Base,2026,Gross Profit,56379.2
+Base,2026,Operating Income,21606.4
+Base,2026,Net Income,14606.8
+Base,2026,Operating Cash Flow,16359.6
+Base,2026,Revenue Growth,0.025
+Base,2026,Gross Margin,0.334
+Base,2026,Operating Margin,0.128
+Base,2026,CFO / Net Income,1.12
+Base,2027,Revenue,173864.1
+Base,2027,Gross Profit,58244.5
+Base,2027,Operating Income,22602.3
+Base,2027,Net Income,15364.7
+Base,2027,Operating Cash Flow,17669.4
+Base,2027,Revenue Growth,0.03
+Base,2027,Gross Margin,0.335
+Base,2027,Operating Margin,0.13
+Base,2027,CFO / Net Income,1.15
+Base,2028,Revenue,179949.3
+Base,2028,Gross Profit,60463.0
+Base,2028,Operating Income,23753.3
+Base,2028,Net Income,16240.6
+Base,2028,Operating Cash Flow,19001.5
+Base,2028,Revenue Growth,0.035
+Base,2028,Gross Margin,0.336
+Base,2028,Operating Margin,0.132
+Base,2028,CFO / Net Income,1.17
+Upside,2026,Revenue,172917.1
+Upside,2026,Gross Profit,58446.0
+Upside,2026,Operating Income,23343.8
+Upside,2026,Net Income,15929.0
+Upside,2026,Operating Cash Flow,18796.2
+Upside,2026,Revenue Growth,0.05
+Upside,2026,Gross Margin,0.338
+Upside,2026,Operating Margin,0.135
+Upside,2026,CFO / Net Income,1.18
+Upside,2027,Revenue,182427.6
+Upside,2027,Gross Profit,62025.4
+Upside,2027,Operating Income,25357.4
+Upside,2027,Net Income,17461.3
+Upside,2027,Operating Cash Flow,20953.6
+Upside,2027,Revenue Growth,0.055
+Upside,2027,Gross Margin,0.34
+Upside,2027,Operating Margin,0.139
+Upside,2027,CFO / Net Income,1.2
+Upside,2028,Revenue,191549.0
+Upside,2028,Gross Profit,65318.2
+Upside,2028,Operating Income,27200.0
+Upside,2028,Net Income,18863.5
+Upside,2028,Operating Cash Flow,23013.4
+Upside,2028,Revenue Growth,0.05
+Upside,2028,Gross Margin,0.341
+Upside,2028,Operating Margin,0.142
+Upside,2028,CFO / Net Income,1.22

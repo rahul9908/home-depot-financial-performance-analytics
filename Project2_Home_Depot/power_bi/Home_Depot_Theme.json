@@ -1,0 +1,7 @@
+{
+  "name": "Home Depot Financial Analysis",
+  "dataColors": ["#17365D", "#2F75B5", "#548235", "#A5A5A5", "#ED7D31", "#C00000"],
+  "background": "#FFFFFF",
+  "foreground": "#1F1F1F",
+  "tableAccent": "#2F75B5"
+}

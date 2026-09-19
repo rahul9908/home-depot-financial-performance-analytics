@@ -1,0 +1,2669 @@
+{
+  "financials": [
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Revenue",
+      "Value USD millions": 151157.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Cost of Sales",
+      "Value USD millions": 100325.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Gross Profit",
+      "Value USD millions": 50832.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "SG&A",
+      "Value USD millions": 25406.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Depreciation & Amortization Expense",
+      "Value USD millions": 2386.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Operating Income",
+      "Value USD millions": 23040.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Interest Expense",
+      "Value USD millions": 1347.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Income Before Tax",
+      "Value USD millions": 21737.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Income Tax Expense",
+      "Value USD millions": 5304.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Income Statement",
+      "Line Item": "Net Income",
+      "Value USD millions": 16433.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Cash & Equivalents",
+      "Value USD millions": 2343.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Receivable",
+      "Value USD millions": 3426.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Inventory",
+      "Value USD millions": 22068.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Assets",
+      "Value USD millions": 29055.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Assets",
+      "Value USD millions": 71876.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Payable",
+      "Value USD millions": 13462.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Liabilities",
+      "Value USD millions": 28693.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Debt",
+      "Value USD millions": 2447.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Long-term Debt",
+      "Value USD millions": 36604.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Operating Lease Liabilities",
+      "Value USD millions": 6183.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Liabilities",
+      "Value USD millions": 73572.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Balance Sheet",
+      "Line Item": "Stockholders' Equity",
+      "Value USD millions": -1696.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Operating Cash Flow",
+      "Value USD millions": 16571.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "D&A Add-back",
+      "Value USD millions": 2862.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Receivables",
+      "Value USD millions": 435.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Inventory",
+      "Value USD millions": "",
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in A/P & Accrued Liabilities",
+      "Value USD millions": 2401.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Capital Expenditures",
+      "Value USD millions": 2566.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Business Acquisitions",
+      "Value USD millions": 421.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Investing Cash Flow",
+      "Value USD millions": -2969.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Share Repurchases",
+      "Value USD millions": 14809.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Dividends Paid",
+      "Value USD millions": 6985.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Fiscal Year End": "2022-01-30",
+      "Statement": "Cash Flow",
+      "Line Item": "Financing Cash Flow",
+      "Value USD millions": -19120.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Revenue",
+      "Value USD millions": 157403.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Cost of Sales",
+      "Value USD millions": 104625.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Gross Profit",
+      "Value USD millions": 52778.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "SG&A",
+      "Value USD millions": 26284.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Depreciation & Amortization Expense",
+      "Value USD millions": 2455.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Operating Income",
+      "Value USD millions": 24039.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Interest Expense",
+      "Value USD millions": 1617.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Income Before Tax",
+      "Value USD millions": 22477.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Income Tax Expense",
+      "Value USD millions": 5372.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Income Statement",
+      "Line Item": "Net Income",
+      "Value USD millions": 17105.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Cash & Equivalents",
+      "Value USD millions": 2757.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Receivable",
+      "Value USD millions": 3317.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Inventory",
+      "Value USD millions": 24886.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Assets",
+      "Value USD millions": 32471.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Assets",
+      "Value USD millions": 76445.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Payable",
+      "Value USD millions": 11443.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Liabilities",
+      "Value USD millions": 23110.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Debt",
+      "Value USD millions": 1231.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Long-term Debt",
+      "Value USD millions": 41962.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Operating Lease Liabilities",
+      "Value USD millions": 7171.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Liabilities",
+      "Value USD millions": 74883.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Balance Sheet",
+      "Line Item": "Stockholders' Equity",
+      "Value USD millions": 1562.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Operating Cash Flow",
+      "Value USD millions": 14615.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "D&A Add-back",
+      "Value USD millions": 2796.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Receivables",
+      "Value USD millions": -111.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Inventory",
+      "Value USD millions": "",
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in A/P & Accrued Liabilities",
+      "Value USD millions": -2577.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Capital Expenditures",
+      "Value USD millions": 3119.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Business Acquisitions",
+      "Value USD millions": 0.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Investing Cash Flow",
+      "Value USD millions": -3140.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Share Repurchases",
+      "Value USD millions": 6696.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Dividends Paid",
+      "Value USD millions": 7789.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Fiscal Year End": "2023-01-29",
+      "Statement": "Cash Flow",
+      "Line Item": "Financing Cash Flow",
+      "Value USD millions": -10993.0,
+      "Source": "SEC Company Facts comparative 10-K data"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Revenue",
+      "Value USD millions": 152669.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Cost of Sales",
+      "Value USD millions": 101709.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Gross Profit",
+      "Value USD millions": 50960.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "SG&A",
+      "Value USD millions": 26598.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Depreciation & Amortization Expense",
+      "Value USD millions": 2673.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Operating Income",
+      "Value USD millions": 21689.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Interest Expense",
+      "Value USD millions": 1943.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Income Before Tax",
+      "Value USD millions": 19924.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Income Tax Expense",
+      "Value USD millions": 4781.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Income Statement",
+      "Line Item": "Net Income",
+      "Value USD millions": 15143.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Cash & Equivalents",
+      "Value USD millions": 3760.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Receivable",
+      "Value USD millions": 3328.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Inventory",
+      "Value USD millions": 20976.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Assets",
+      "Value USD millions": 29775.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Assets",
+      "Value USD millions": 76530.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Payable",
+      "Value USD millions": 10037.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Liabilities",
+      "Value USD millions": 22015.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Debt",
+      "Value USD millions": 1368.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Long-term Debt",
+      "Value USD millions": 42743.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Operating Lease Liabilities",
+      "Value USD millions": 8132.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Liabilities",
+      "Value USD millions": 75486.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Balance Sheet",
+      "Line Item": "Stockholders' Equity",
+      "Value USD millions": 1044.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Operating Cash Flow",
+      "Value USD millions": 21172.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "D&A Add-back",
+      "Value USD millions": 3061.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Receivables",
+      "Value USD millions": -134.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Inventory",
+      "Value USD millions": "",
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in A/P & Accrued Liabilities",
+      "Value USD millions": -1411.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Capital Expenditures",
+      "Value USD millions": 3226.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Business Acquisitions",
+      "Value USD millions": 1514.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Investing Cash Flow",
+      "Value USD millions": -4729.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Share Repurchases",
+      "Value USD millions": 7951.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Dividends Paid",
+      "Value USD millions": 8383.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Fiscal Year End": "2024-01-28",
+      "Statement": "Cash Flow",
+      "Line Item": "Financing Cash Flow",
+      "Value USD millions": -15443.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Revenue",
+      "Value USD millions": 159514.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Cost of Sales",
+      "Value USD millions": 106206.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Gross Profit",
+      "Value USD millions": 53308.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "SG&A",
+      "Value USD millions": 28748.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Depreciation & Amortization Expense",
+      "Value USD millions": 3034.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Operating Income",
+      "Value USD millions": 21526.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Interest Expense",
+      "Value USD millions": 2321.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Income Before Tax",
+      "Value USD millions": 19406.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Income Tax Expense",
+      "Value USD millions": 4600.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Income Statement",
+      "Line Item": "Net Income",
+      "Value USD millions": 14806.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Cash & Equivalents",
+      "Value USD millions": 1659.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Receivable",
+      "Value USD millions": 4903.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Inventory",
+      "Value USD millions": 23451.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Assets",
+      "Value USD millions": 31683.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Assets",
+      "Value USD millions": 96119.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Payable",
+      "Value USD millions": 11938.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Liabilities",
+      "Value USD millions": 28661.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Debt",
+      "Value USD millions": 4582.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Long-term Debt",
+      "Value USD millions": 48485.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Operating Lease Liabilities",
+      "Value USD millions": 8907.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Liabilities",
+      "Value USD millions": 89479.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Balance Sheet",
+      "Line Item": "Stockholders' Equity",
+      "Value USD millions": 6640.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Operating Cash Flow",
+      "Value USD millions": 19810.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "D&A Add-back",
+      "Value USD millions": 3336.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Receivables",
+      "Value USD millions": -174.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Inventory",
+      "Value USD millions": "",
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in A/P & Accrued Liabilities",
+      "Value USD millions": 518.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Capital Expenditures",
+      "Value USD millions": 3485.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Business Acquisitions",
+      "Value USD millions": 17644.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Investing Cash Flow",
+      "Value USD millions": -21031.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Share Repurchases",
+      "Value USD millions": 649.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Dividends Paid",
+      "Value USD millions": 8929.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Fiscal Year End": "2025-02-02",
+      "Statement": "Cash Flow",
+      "Line Item": "Financing Cash Flow",
+      "Value USD millions": -694.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Revenue",
+      "Value USD millions": 164683.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Cost of Sales",
+      "Value USD millions": 109818.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Gross Profit",
+      "Value USD millions": 54865.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "SG&A",
+      "Value USD millions": 30702.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Depreciation & Amortization Expense",
+      "Value USD millions": 3273.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Operating Income",
+      "Value USD millions": 20890.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Interest Expense",
+      "Value USD millions": 2412.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Income Before Tax",
+      "Value USD millions": 18602.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Income Tax Expense",
+      "Value USD millions": 4446.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Income Statement",
+      "Line Item": "Net Income",
+      "Value USD millions": 14156.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Cash & Equivalents",
+      "Value USD millions": 1389.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Receivable",
+      "Value USD millions": 5597.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Inventory",
+      "Value USD millions": 25817.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Assets",
+      "Value USD millions": 34391.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Assets",
+      "Value USD millions": 105095.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Accounts Payable",
+      "Value USD millions": 11491.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Liabilities",
+      "Value USD millions": 32424.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Current Debt",
+      "Value USD millions": 4967.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Long-term Debt",
+      "Value USD millions": 46341.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Operating Lease Liabilities",
+      "Value USD millions": 9578.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Total Liabilities",
+      "Value USD millions": 92282.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Balance Sheet",
+      "Line Item": "Stockholders' Equity",
+      "Value USD millions": 12813.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Operating Cash Flow",
+      "Value USD millions": 16325.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "D&A Add-back",
+      "Value USD millions": 3514.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Receivables",
+      "Value USD millions": -107.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in Inventory",
+      "Value USD millions": "",
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Change in A/P & Accrued Liabilities",
+      "Value USD millions": -1058.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Capital Expenditures",
+      "Value USD millions": 3679.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Business Acquisitions",
+      "Value USD millions": 5410.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Investing Cash Flow",
+      "Value USD millions": -8980.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Share Repurchases",
+      "Value USD millions": 0.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Dividends Paid",
+      "Value USD millions": 9152.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Fiscal Year End": "2026-02-01",
+      "Statement": "Cash Flow",
+      "Line Item": "Financing Cash Flow",
+      "Value USD millions": -7714.0,
+      "Source": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
+    }
+  ],
+  "ratios": [
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Revenue Growth",
+      "Value": ""
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Gross Margin",
+      "Value": 0.336286
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Operating Margin",
+      "Value": 0.152424
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Net Margin",
+      "Value": 0.108715
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "SG&A as % Revenue",
+      "Value": 0.168077
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Current Ratio",
+      "Value": 1.012616
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Quick Ratio",
+      "Value": 0.201059
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Debt / Equity",
+      "Value": -23.025354
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Debt / Assets",
+      "Value": 0.543311
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "CFO / Net Income",
+      "Value": 1.008398
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Free Cash Flow Margin",
+      "Value": 0.092652
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Inventory Turnover",
+      "Value": 4.546175
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Receivable Days",
+      "Value": 8.272789
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Inventory Days",
+      "Value": 80.287266
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2021,
+      "Metric": "Payable Days",
+      "Value": 48.977124
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Revenue Growth",
+      "Value": 0.041321
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Gross Margin",
+      "Value": 0.335305
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Operating Margin",
+      "Value": 0.152723
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Net Margin",
+      "Value": 0.10867
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "SG&A as % Revenue",
+      "Value": 0.166985
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Current Ratio",
+      "Value": 1.405063
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Quick Ratio",
+      "Value": 0.26283
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Debt / Equity",
+      "Value": 27.652369
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Debt / Assets",
+      "Value": 0.565021
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "CFO / Net Income",
+      "Value": 0.854429
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Free Cash Flow Margin",
+      "Value": 0.073035
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Inventory Turnover",
+      "Value": 4.456489
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Receivable Days",
+      "Value": 7.818132
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Inventory Days",
+      "Value": 81.903035
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2022,
+      "Metric": "Payable Days",
+      "Value": 43.442413
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Revenue Growth",
+      "Value": -0.030076
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Gross Margin",
+      "Value": 0.333794
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Operating Margin",
+      "Value": 0.142066
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Net Margin",
+      "Value": 0.099188
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "SG&A as % Revenue",
+      "Value": 0.17422
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Current Ratio",
+      "Value": 1.352487
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Quick Ratio",
+      "Value": 0.321962
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Debt / Equity",
+      "Value": 42.251916
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Debt / Assets",
+      "Value": 0.576388
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "CFO / Net Income",
+      "Value": 1.398138
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Free Cash Flow Margin",
+      "Value": 0.117548
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Inventory Turnover",
+      "Value": 4.435437
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Receivable Days",
+      "Value": 7.94341
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Inventory Days",
+      "Value": 82.291783
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2023,
+      "Metric": "Payable Days",
+      "Value": 38.542312
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Revenue Growth",
+      "Value": 0.044836
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Gross Margin",
+      "Value": 0.33419
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Operating Margin",
+      "Value": 0.134947
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Net Margin",
+      "Value": 0.092819
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "SG&A as % Revenue",
+      "Value": 0.180222
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Current Ratio",
+      "Value": 1.105439
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Quick Ratio",
+      "Value": 0.228952
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Debt / Equity",
+      "Value": 7.992018
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Debt / Assets",
+      "Value": 0.552097
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "CFO / Net Income",
+      "Value": 1.337971
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Free Cash Flow Margin",
+      "Value": 0.102342
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Inventory Turnover",
+      "Value": 4.781147
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Receivable Days",
+      "Value": 9.417089
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Inventory Days",
+      "Value": 76.34152
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2024,
+      "Metric": "Payable Days",
+      "Value": 37.760932
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Revenue Growth",
+      "Value": 0.032405
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Gross Margin",
+      "Value": 0.333155
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Operating Margin",
+      "Value": 0.12685
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Net Margin",
+      "Value": 0.085959
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "SG&A as % Revenue",
+      "Value": 0.186431
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Current Ratio",
+      "Value": 1.060665
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Quick Ratio",
+      "Value": 0.215458
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Debt / Equity",
+      "Value": 4.004371
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Debt / Assets",
+      "Value": 0.488206
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "CFO / Net Income",
+      "Value": 1.153221
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Free Cash Flow Margin",
+      "Value": 0.07679
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Inventory Turnover",
+      "Value": 4.457985
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Receivable Days",
+      "Value": 11.635992
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Inventory Days",
+      "Value": 81.875558
+    },
+    {
+      "Company": "The Home Depot, Inc.",
+      "Ticker": "HD",
+      "Fiscal Year": 2025,
+      "Metric": "Payable Days",
+      "Value": 38.935261
+    }
+  ],
+  "scenarios": [
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Revenue",
+      "Value USD millions": 164683.0
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Gross Profit",
+      "Value USD millions": 54345.4
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Income",
+      "Value USD millions": 19762.0
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Net Income",
+      "Value USD millions": 13203.2
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 13863.4
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.0
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.33
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.12
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2026,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.05
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Revenue",
+      "Value USD millions": 166329.8
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Gross Profit",
+      "Value USD millions": 55055.2
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Income",
+      "Value USD millions": 20292.2
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Net Income",
+      "Value USD millions": 13606.7
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 14695.3
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.01
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.331
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.122
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2027,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.08
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Revenue",
+      "Value USD millions": 169656.4
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Gross Profit",
+      "Value USD millions": 56325.9
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Income",
+      "Value USD millions": 21037.4
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Net Income",
+      "Value USD millions": 14173.8
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 15591.2
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.02
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.332
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.124
+    },
+    {
+      "Scenario": "Downside",
+      "Fiscal Year": 2028,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.1
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Revenue",
+      "Value USD millions": 168800.1
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Gross Profit",
+      "Value USD millions": 56379.2
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Income",
+      "Value USD millions": 21606.4
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Net Income",
+      "Value USD millions": 14606.8
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 16359.6
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.025
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.334
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.128
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2026,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.12
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Revenue",
+      "Value USD millions": 173864.1
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Gross Profit",
+      "Value USD millions": 58244.5
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Income",
+      "Value USD millions": 22602.3
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Net Income",
+      "Value USD millions": 15364.7
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 17669.4
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.03
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.335
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.13
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2027,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.15
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Revenue",
+      "Value USD millions": 179949.3
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Gross Profit",
+      "Value USD millions": 60463.0
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Income",
+      "Value USD millions": 23753.3
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Net Income",
+      "Value USD millions": 16240.6
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 19001.5
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.035
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.336
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.132
+    },
+    {
+      "Scenario": "Base",
+      "Fiscal Year": 2028,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.17
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Revenue",
+      "Value USD millions": 172917.1
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Gross Profit",
+      "Value USD millions": 58446.0
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Income",
+      "Value USD millions": 23343.8
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Net Income",
+      "Value USD millions": 15929.0
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 18796.2
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.05
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.338
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.135
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2026,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.18
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Revenue",
+      "Value USD millions": 182427.6
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Gross Profit",
+      "Value USD millions": 62025.4
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Income",
+      "Value USD millions": 25357.4
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Net Income",
+      "Value USD millions": 17461.3
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 20953.6
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.055
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.34
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.139
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2027,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.2
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Revenue",
+      "Value USD millions": 191549.0
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Gross Profit",
+      "Value USD millions": 65318.2
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Income",
+      "Value USD millions": 27200.0
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Net Income",
+      "Value USD millions": 18863.5
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Cash Flow",
+      "Value USD millions": 23013.4
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Revenue Growth",
+      "Value USD millions": 0.05
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Gross Margin",
+      "Value USD millions": 0.341
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "Operating Margin",
+      "Value USD millions": 0.142
+    },
+    {
+      "Scenario": "Upside",
+      "Fiscal Year": 2028,
+      "Metric": "CFO / Net Income",
+      "Value USD millions": 1.22
+    }
+  ]
+}
