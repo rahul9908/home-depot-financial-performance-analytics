@@ -27,7 +27,7 @@ flowchart LR
 
 The visual flow makes the model auditable: every dashboard insight traces back to a standardized dataset and an identifiable source layer.
 
-## The story in two charts
+## Historical performance visuals
 
 ```mermaid
 xychart-beta
@@ -45,7 +45,7 @@ xychart-beta
     line [15.2, 15.3, 14.2, 13.5, 12.7]
 ```
 
-**Human interpretation:** Home Depot is still getting bigger, but the incremental dollar of sales is producing less operating profit than it did five years ago. In plain English, this is a scale-and-execution story—not a liquidity crisis. The company can fund the business, but investors should want proof that acquired revenue becomes profitable and that inventory growth converts back into cash.
+**Analytical interpretation:** Home Depot expanded reported revenue over the period; however, operating profit generated per dollar of revenue declined as SG&A increased while gross margin remained broadly stable. The resulting risk is primarily operating execution and integration effectiveness rather than near-term liquidity. The analysis therefore emphasizes the conversion of acquired revenue into sustainable operating profit and the normalization of working-capital investment.
 
 ## Key findings
 
@@ -59,7 +59,7 @@ xychart-beta
 | Working capital | NOWC increased by approximately **$3.5B** from FY21 to FY25 | Capital is tied up in inventory and receivables relative to payables |
 | Capital efficiency | Estimated FY25 ROIC **26.3%**, versus **49.7%** in FY21 | Still attractive, but the trend warrants disciplined reinvestment |
 
-## Why this is resume-ready
+## Analytical scope and capabilities demonstrated
 
 This is not a static ratio table. It demonstrates an end-to-end analyst workflow:
 
@@ -120,7 +120,7 @@ ROIC is an analytical estimate using NOPAT divided by average invested capital; 
 - [Home Depot FY2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)
 - [Home Depot investor documents](https://ir.homedepot.com/investor-resources/investor-documents)
 
-## Resume-ready project line
+## Professional project description
 
 **Built a graduate-level Home Depot financial performance model using SEC XBRL, Python, Excel, and Power BI; standardized five years of statements, analyzed ROIC/working capital/earnings quality, isolated acquisition-adjusted growth, and produced audited scenario forecasts with executive decision thresholds.**
 

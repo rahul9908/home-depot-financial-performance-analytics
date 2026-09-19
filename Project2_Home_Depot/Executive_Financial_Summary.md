@@ -6,11 +6,11 @@ Maintain a neutral **hold / monitor execution** view. Home Depot reached record 
 
 The main decision trigger is margin stabilization. A sustained operating margin above 13% with improving cash conversion would support a more constructive view. Continued big-ticket demand weakness, acquisition-integration costs, or further inventory growth without matching sales would favor the downside case.
 
-## What the numbers mean in human terms
+## Management interpretation
 
-Home Depot is not shrinking; it is becoming more expensive to operate. Revenue reached a new high, but the business kept less profit from each sales dollar because SG&A expanded while gross margin stayed broadly flat. That pattern points to execution pressure—labor, integration, and operating leverage—rather than a product-margin collapse.
+Home Depot achieved record reported revenue, but operating cost intensity increased as SG&A expanded while gross margin remained broadly stable. Consequently, operating profit generated per dollar of revenue declined over the review period. The evidence indicates increased execution, labor, integration, and operating-leverage pressure rather than a material deterioration in gross-margin economics.
 
-The cash-flow picture is more reassuring than the income statement alone. The company still generated more operating cash than accounting profit in fiscal 2025, but inventory and receivables absorbed cash while payables provided less support. The practical question is therefore not “Can Home Depot grow?” but “Can it turn acquired growth into durable margin and cash conversion?”
+Operating cash flow remained above net income in fiscal 2025, supporting the quality of reported earnings. However, inventory and receivables absorbed cash while payables contributed less financing support. The principal analytical question is whether acquired revenue can be converted into durable operating-margin improvement and stronger cash conversion.
 
 The portfolio conclusion is intentionally conditional: a constructive upgrade requires Primary-segment growth, operating margin above 13%, CFO/net income above 1.0x, and improving ROIC. If those signals do not appear together, the downside case remains credible even if headline revenue continues to rise.
 
